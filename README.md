@@ -1,5 +1,6 @@
 <img width=235 alt="Raspberry PI logo recolored to the Chromium browser logo" src="media/blueberrypi.png" align="left"></img>
 
+<br />
 <div align="center">
   <div id="user-content-toc">
     <ul>
@@ -9,4 +10,4 @@
     <br />purpose-built hardware
   </div>
 </div>
-<br /><br /><br /><br />
+<br /><br /><br />
